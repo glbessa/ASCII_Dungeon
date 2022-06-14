@@ -1,6 +1,6 @@
 # ASCII Dungeon
 This is a simple but enjoyable game written entirely in C. Feel free to use, play and modify this code.
-We proposed to write it in the Computer Programming class at Federal University of Pelotas - RS - Brazil.
+We were proposed to write it in the Computer Programming class at Federal University of Pelotas - RS - Brazil.
 
 ### Contributors
 - [Pedro Porto](https://github.com/PedroPortow "Pedro Porto")
