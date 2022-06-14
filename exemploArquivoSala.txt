@@ -1,0 +1,6 @@
+<comprimento> <altura>
+<
+<linha1Mapa>
+<linha2Mapa>
+<...>
+<linhanMapa>

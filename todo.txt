@@ -1,0 +1,21 @@
+Para fazer
+
+Funções
+
+Função para desenhar mapa na tela - Gabriel
+Função para o jogador ou o monstro atacar - Otávio
+Função para o monstro se movimentar - Nicolas
+Função para o jogador se movimentar - Pedro
+Função para ler mapa do arquivo - Gabriel
+Função para identificar os monstros no mapa - Gabriel
+Função para identificar o jogador no mapa - Gabriel
+Função para identificar os baús no mapa - Gabriel
+Função para randomizar o que terá no baú quando o jogador abrir-lo - Otávio
+
+
+Estruturas
+
+Definir as características dos diferentes monstros - Otávio
+Definir os itens especiais que irá ter - Otávio
+Definir as armas que irá ter - Otávio
+Definir as defesas que irá ter - Otávio
